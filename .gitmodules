@@ -1,0 +1,3 @@
+[submodule "mavp2p"]
+	path = mavp2p
+	url = ./mavp2p
