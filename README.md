@@ -14,3 +14,6 @@ among others.
 CyberTX is a serial/protobuf to PPM converter that can drive trainer inputs to RC radio equipment.
 In short, if you can control it with an RC, and your RC has trainer input, 
 you can control that vehicle from a computer using CyberTX and MavRC.
+
+
+![PPM](./docs/ppm.png "CyberTX output shown with Radiomaster Output")
